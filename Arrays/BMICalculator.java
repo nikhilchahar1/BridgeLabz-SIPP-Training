@@ -33,6 +33,8 @@ public class BMICalculator {
                 statuses[i] = "Obese";
             }
         }
+
+        // Output
         System.out.println("\n--- BMI Report ---");
         for (int i = 0; i < n; i++) {
             System.out.printf("Person %d: Height = %.2f m, Weight = %.2f kg, BMI = %.2f, Status = %s\n",
