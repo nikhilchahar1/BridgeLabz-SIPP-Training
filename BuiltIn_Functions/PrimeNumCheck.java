@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class PrimeNumCheck {
     public static void main(String[] args) {
+
+        // Taking User Input
         Scanner scanner = new Scanner(System.in);
         int num = scanner.nextInt();
         boolean isPrime = checkPrime(num);
