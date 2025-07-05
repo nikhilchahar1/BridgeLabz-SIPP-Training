@@ -1,4 +1,4 @@
-# 🧠 BridgeLabz SIPP Training - Daily Progress Tracker 💻🔥
+# BridgeLabz SIPP Training - Daily Progress Tracker 
 
 Welcome to my BridgeLabz-SIPP-Training repo!  
 This README serves as a central log of my daily progress across different topics, branches, and Java modules.  
@@ -6,7 +6,7 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ---
 
-## CORE-JAVA Branch 📂
+## CORE-JAVA Branch 
 
 ### 📅 09/06/25 (Mon) – Day 1 – Java Fundamentals  
 *Topics*: Introduction to Java, role of JDK, JRE, and JVM, writing the first program, variable types, and basic data types in Java  
@@ -56,7 +56,7 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ---
 
-## OOPS Branch 🧱
+## OOPS Branch 
 
 ### 📅 20/06/25 (Fri) – Day 1 – Classes & Objects  
 *Topics*: Defining classes, creating objects, class structure, encapsulating data, real-world object modeling in Java  
