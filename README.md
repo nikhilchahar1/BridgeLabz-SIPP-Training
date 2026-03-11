@@ -7,7 +7,7 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 ---
 
 ## CORE-JAVA Branch 
-
+  
 ### 📅 09/06/25 (Mon) – Day 1 – Java Fundamentals  
 Topics : Introduction to Java, role of JDK, JRE, and JVM, writing the first program, variable types, and basic data types in Java. 
 🔗 [Code](https://github.com/nikhilchahar1/BridgeLabz-SIPP-Training/tree/Core-Java/Java_Fundamentals)
